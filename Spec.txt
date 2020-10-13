@@ -1,0 +1,21 @@
+This workstation spec was modified based on the spec of SuperMicro workstation.
+
+Original Supermicro workstation spec: Supermicro SYS-5039A-i
+
+Revised spec was listed as following.
+1. CPU: Intel Xeon W-2123 (qurd-core)
+2. Memory: 128 GB (for small/medium genome assembly, human genome resequencing)
+3. SSD: WD Black SN750 1TB NVMe PCIe SSD (WDS100T3X0C)
+4. NVMe SSD expansion card: QNAP QM2-2P-384 dual M.2 22110/2280 PCIe SSD
+5. HDD: Seagate 【IronWolf Pro】18TB 3.5" NAS (ST18000NE000)
+6. GPU: LEADTEK NVIDIA Quadro RTX4000 8GB GDDR6 PCI-E
+
+Reference:
+1. SuperMicro SYS-5039A-i: https://24h.pchome.com.tw/prod/DSAM2C-A900ATNB6?fq=/S/DSAM2C
+2. Memory: https://24h.pchome.com.tw/prod/DRAL3U-A90090RUG?fq=/S/DRAC5W
+3. SSD: https://24h.pchome.com.tw/prod/DRAH7O-A9009UD4F?fq=/S/DRAHAH
+4. NVMe SSD expansion card: https://24h.pchome.com.tw/prod/DRAG6J-A9008ZGRU
+5. HDD: https://24h.pchome.com.tw/prod/DRAB57-A900AVQGK?fq=/S/DRAB57
+6. GPU: https://24h.pchome.com.tw/prod/DRAD1Q-A900A52OK?fq=/S/DRAD1Q
+
+
